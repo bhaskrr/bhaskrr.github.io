@@ -69,3 +69,6 @@ button {
     background: rgb(43, 41, 41);
     color: white;
 }
+footer p {
+    text-align: center;
+}
